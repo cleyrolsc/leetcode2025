@@ -17,6 +17,11 @@ Welcome to my 2025 LeetCode Daily Challenge! This year, I have committed to solv
 - **End Date:** December 31, 2025
 - **Platform:** [LeetCode](https://leetcode.com/)
 
+## Technologies Used
+
+- **Java**
+- **TypeScript**
+
 ## Motivation
 
 Consistent practice is the key to mastering coding and problem-solving. By challenging myself to solve one problem every day, I aim to develop a habit of continuous learning and improvement. I hope this journey will inspire others to embark on their own path to coding excellence.
