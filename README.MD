@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Welcome to my 2025 LeetCode Daily Challenge! This year, I have committed to solving one LeetCode problem each day to sharpen my coding skills, enhance my problem-solving abilities, and achieve consistent growth as a software developer.
+Welcome to my 2025 LeetCode Daily Challenge! This year, I have committed to solving LeetCode problems each day to sharpen my coding skills, enhance my problem-solving abilities, and achieve consistent growth as a software developer.
 
 ## Objectives
 
-- Solve one LeetCode problem daily.
+- Solve LeetCode problems daily.
 - Enhance algorithm and data structure knowledge.
 - Share solutions and explanations.
 - Track progress and reflect on learning.
@@ -19,7 +19,7 @@ Welcome to my 2025 LeetCode Daily Challenge! This year, I have committed to solv
 
 ## Technologies Used
 
-- **Java**
+- **Rust**
 - **TypeScript**
 
 ## Motivation
