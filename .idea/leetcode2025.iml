@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/longest_common_prefix/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/valid_parentheses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/move_zeroes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alternating_digit_sum/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/longest_common_prefix/target" />
+      <excludeFolder url="file://$MODULE_DIR$/valid_parentheses/target" />
+      <excludeFolder url="file://$MODULE_DIR$/move_zeroes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/alternating_digit_sum/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
